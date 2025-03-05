@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,c,py"/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,npm,git,sqlite,figma,pytorch"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,vue,nodejs,npm,git,mysql,figma,pytorch"/>
 </p>
 
 <hr>
